@@ -1,0 +1,5 @@
+task-def.json
+task-worker-def.json
+upd-task-*.json
+secrets.json
+*.env
